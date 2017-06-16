@@ -1,6 +1,7 @@
 
 # Python bytecode
 *.pyc
+*.so
 
 # Weight files
 bin/
@@ -12,6 +13,7 @@ sample_img/out/*
 
 # Annotated test results
 results/
+output/
 
 # Intermediate training data
 backup/
